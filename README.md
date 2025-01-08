@@ -3,5 +3,5 @@ Finding two transition points with neural networks for double explosive synchron
 
 ### Dataset
 
-We created a time series dataset from  https://github.com/Najmehmoazzen/Kuramoto_transitions/tree/main/double_explosive_transition
+We created a time series dataset of phases from  https://github.com/Najmehmoazzen/Kuramoto_transitions/tree/main/double_explosive_transition
 
